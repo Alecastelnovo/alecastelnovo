@@ -1,10 +1,8 @@
-[![MasterHead](https://github.com/tu-usuario/tu-repositorio/raw/main/banner.png)](https://rishavchanda.io)
+[![MasterHead](https://github.com/alecastelnovo/alecastelnovo/raw/main/banner.png)](https://rishavchanda.io)
 
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate Software Developer from Argentina</h3>
-<img align="right" alt="Programando" width="400" src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5obHJpcGU4M2RlcGU4NmVocjVhY254aW93d3JqZHJqYmRyOGpkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif ">
-
+<h2 align="center">A passionate Software Developer from Argentina</h2>
+<img align="right" alt="Programando" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5obHJpcGU4M2RlcGU4NmVocjVhY254aW93d3JqZHJqYmRyOGpkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alecastelnovo&label=Profile%20views&color=0e75b6&style=flat" alt="alecastelnovo" /> </p>
 
